@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "YJfir8YmzOg=",
+  "success": true,
+  "projectFilePath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\jezabalo\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
