@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DitNlN4nbPM=",
+  "dgSpecHash": "SrMl5qNWpZU=",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\ShippingService.Features.csproj",
+  "projectFilePath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Features\\ShippingService.Features.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jezabalo\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
     "C:\\Users\\jezabalo\\.nuget\\packages\\erroror\\2.0.1\\erroror.2.0.1.nupkg.sha512",

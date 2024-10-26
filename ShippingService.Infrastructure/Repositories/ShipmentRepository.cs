@@ -22,6 +22,7 @@ public class ShipmentRepository(ShippingDbContext dbContext) : IShipmentReposito
     public async Task<Shipment?> GetByNumberAsync(string shipmentNumber, CancellationToken cancellationToken)
     {
         return await dbContext.Shipments
+            .AsNoTracking()
             .Include(x => x.Items)
             .Where(s => s.Number == shipmentNumber)
             .FirstOrDefaultAsync(cancellationToken);

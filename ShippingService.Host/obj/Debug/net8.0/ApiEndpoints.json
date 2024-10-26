@@ -1,0 +1,178 @@
+[
+  {
+    "ContainingType": "ShippingService.Features.Shipments.CreateShipment.CreateShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "ShippingService.Features.Shipments.CreateShipment.CreateShipmentRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.GetShipmentByNumber.GetShipmentByNumberEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/{shipmentNumber}",
+    "HttpMethod": "GET",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.CancelShipment.CancelShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/cancel/{shipmentNumber}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.DeliverShipment.DeliverShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/deliver/{shipmentNumber}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.DispatchShipment.DispatchShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/dispatch/{shipmentNumber}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.ProcessShipment.ProcessShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/process/{shipmentNumber}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.ReceiveShipment.ReceiveShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/receive/{shipmentNumber}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "ShippingService.Features.Shipments.TransitShipment.TransitShipmentEndpoint",
+    "Method": "Handle",
+    "RelativePath": "api/shipments/transit/{shipmentNumber}",
+    "HttpMethod": "POST",
+    "IsController": false,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "shipmentNumber",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
+  }
+]

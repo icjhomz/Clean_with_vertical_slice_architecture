@@ -320,11 +320,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\ShippingService.Features.csproj",
+      "projectUniqueName": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Features\\ShippingService.Features.csproj",
       "projectName": "ShippingService.Features",
-      "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\ShippingService.Features.csproj",
+      "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Features\\ShippingService.Features.csproj",
       "packagesPath": "C:\\Users\\jezabalo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\obj\\",
+      "outputPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Features\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -346,8 +346,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj": {
-              "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj"
+            "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj": {
+              "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj"
             }
           }
         }

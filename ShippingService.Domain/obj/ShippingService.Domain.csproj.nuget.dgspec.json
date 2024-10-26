@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj": {}
+    "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj": {}
   },
   "projects": {
-    "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj": {
+    "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj",
+        "projectUniqueName": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj",
         "projectName": "ShippingService.Domain",
-        "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj",
+        "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj",
         "packagesPath": "C:\\Users\\jezabalo\\.nuget\\packages\\",
-        "outputPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\obj\\",
+        "outputPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

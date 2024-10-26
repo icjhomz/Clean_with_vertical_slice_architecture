@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "tPTBXFwJECE=",
+  "dgSpecHash": "qJsIEOzemxQ=",
   "success": true,
-  "projectFilePath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\ShippingService.Host.csproj",
+  "projectFilePath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Host\\ShippingService.Host.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\jezabalo\\.nuget\\packages\\bogus\\35.5.1\\bogus.35.5.1.nupkg.sha512",
     "C:\\Users\\jezabalo\\.nuget\\packages\\efcore.namingconventions\\8.0.3\\efcore.namingconventions.8.0.3.nupkg.sha512",

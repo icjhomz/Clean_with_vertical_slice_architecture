@@ -1,24 +1,7 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\",
-  "Documents": [
-    {
-      "AbsoluteMoniker": "D:0:0:{1AF9D4DB-2E98-460F-B30D-9C23DDC3228E}|ShippingService.Features\\ShippingService.Features.csproj|d:\\desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\shippingservice.features\\extensions\\endpointresultsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF9D4DB-2E98-460F-B30D-9C23DDC3228E}|ShippingService.Features\\ShippingService.Features.csproj|solutionrelative:shippingservice.features\\extensions\\endpointresultsextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1AF9D4DB-2E98-460F-B30D-9C23DDC3228E}|ShippingService.Features\\ShippingService.Features.csproj|d:\\desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\shippingservice.features\\abstract\\iendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{1AF9D4DB-2E98-460F-B30D-9C23DDC3228E}|ShippingService.Features\\ShippingService.Features.csproj|solutionrelative:shippingservice.features\\abstract\\iendpoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D2AD95-A67E-4805-8FB8-EF13CC245766}|ShippingService.Host\\ShippingService.Host.csproj|d:\\desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\shippingservice.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D2AD95-A67E-4805-8FB8-EF13CC245766}|ShippingService.Host\\ShippingService.Host.csproj|solutionrelative:shippingservice.host\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{42D2AD95-A67E-4805-8FB8-EF13CC245766}|ShippingService.Host\\ShippingService.Host.csproj|d:\\desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\shippingservice.host\\iapimarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{42D2AD95-A67E-4805-8FB8-EF13CC245766}|ShippingService.Host\\ShippingService.Host.csproj|solutionrelative:shippingservice.host\\iapimarker.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    }
-  ],
+  "WorkspaceRootPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\",
+  "Documents": [],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -26,7 +9,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -63,58 +46,6 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "EndpointResultsExtensions.cs",
-              "DocumentMoniker": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\Extensions\\EndpointResultsExtensions.cs",
-              "RelativeDocumentMoniker": "ShippingService.Features\\Extensions\\EndpointResultsExtensions.cs",
-              "ToolTip": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\Extensions\\EndpointResultsExtensions.cs",
-              "RelativeToolTip": "ShippingService.Features\\Extensions\\EndpointResultsExtensions.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAwwCYAAABNAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:48:37.576Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IEndpoint.cs",
-              "DocumentMoniker": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\Abstract\\IEndpoint.cs",
-              "RelativeDocumentMoniker": "ShippingService.Features\\Abstract\\IEndpoint.cs",
-              "ToolTip": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\Abstract\\IEndpoint.cs",
-              "RelativeToolTip": "ShippingService.Features\\Abstract\\IEndpoint.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:48:33.672Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\Program.cs",
-              "RelativeDocumentMoniker": "ShippingService.Host\\Program.cs",
-              "ToolTip": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\Program.cs",
-              "RelativeToolTip": "ShippingService.Host\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:47:48.565Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IApiMarker.cs",
-              "DocumentMoniker": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\IApiMarker.cs",
-              "RelativeDocumentMoniker": "ShippingService.Host\\IApiMarker.cs",
-              "ToolTip": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\IApiMarker.cs",
-              "RelativeToolTip": "ShippingService.Host\\IApiMarker.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T11:47:43.054Z",
-              "EditorCaption": ""
             }
           ]
         }

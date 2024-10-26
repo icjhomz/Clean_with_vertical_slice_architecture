@@ -1,0 +1,16 @@
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\bin\Debug\net8.0\ShippingService.Features.deps.json
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\bin\Debug\net8.0\ShippingService.Features.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\bin\Debug\net8.0\ShippingService.Features.pdb
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\bin\Debug\net8.0\ShippingService.Domain.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\bin\Debug\net8.0\ShippingService.Domain.pdb
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.csproj.AssemblyReference.cache
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.AssemblyInfoInputs.cache
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.AssemblyInfo.cs
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.csproj.CoreCompileInputs.cache
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.sourcelink.json
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\Shipping.AEA2797A.Up2Date
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\refint\ShippingService.Features.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ShippingService.Features.pdb
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Features\obj\Debug\net8.0\ref\ShippingService.Features.dll

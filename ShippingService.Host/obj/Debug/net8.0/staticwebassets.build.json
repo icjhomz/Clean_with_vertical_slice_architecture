@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "AMWHksNjFiTW/cYzVlGfspXjM07wzdtzytIAFOP6sGs=",
+  "Source": "ShippingService.Host",
+  "BasePath": "_content/ShippingService.Host",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

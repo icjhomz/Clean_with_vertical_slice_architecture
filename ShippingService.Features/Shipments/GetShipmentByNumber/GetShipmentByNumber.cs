@@ -48,3 +48,16 @@ public class GetShipmentByNumberEndpoint : IEndpoint
 		return response is not null ? Results.Ok(response) : Results.NotFound($"Shipment with number '{shipmentNumber}' not found");
 	}
 }
+
+public class ShipmentService
+{
+    private readonly IMediator _mediator;
+
+    public ShipmentService(IMediator mediator)
+    {
+        _mediator = mediator;
+    }
+
+    public Task<ShipmentResponse?> GetShipmentByNumberAsync(string shipmentNumber) =>
+        _mediator.Send(new GetShipmentByNumberQuery(shipmentNumber));
+}

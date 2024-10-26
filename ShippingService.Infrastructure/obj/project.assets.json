@@ -2378,11 +2378,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj",
+      "projectUniqueName": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj",
       "projectName": "ShippingService.Infrastructure",
-      "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj",
+      "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\jezabalo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Infrastructure\\obj\\",
+      "outputPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2404,8 +2404,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj": {
-              "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Domain\\ShippingService.Domain.csproj"
+            "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj": {
+              "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Domain\\ShippingService.Domain.csproj"
             }
           }
         }

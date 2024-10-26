@@ -2326,11 +2326,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\ShippingService.Host.csproj",
+      "projectUniqueName": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Host\\ShippingService.Host.csproj",
       "projectName": "ShippingService.Host",
-      "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\ShippingService.Host.csproj",
+      "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Host\\ShippingService.Host.csproj",
       "packagesPath": "C:\\Users\\jezabalo\\.nuget\\packages\\",
-      "outputPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Host\\obj\\",
+      "outputPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Host\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -2352,11 +2352,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\ShippingService.Features.csproj": {
-              "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Features\\ShippingService.Features.csproj"
+            "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Features\\ShippingService.Features.csproj": {
+              "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Features\\ShippingService.Features.csproj"
             },
-            "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj": {
-              "projectPath": "D:\\Desktop\\development projects\\the-best-way-to-structure-your-dotnet-projects-with-clean-architecture-and-vertical-slices\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj"
+            "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj": {
+              "projectPath": "D:\\Desktop\\development projects\\CleanArchiWithVertArchi\\ShippingService.Infrastructure\\ShippingService.Infrastructure.csproj"
             }
           }
         }

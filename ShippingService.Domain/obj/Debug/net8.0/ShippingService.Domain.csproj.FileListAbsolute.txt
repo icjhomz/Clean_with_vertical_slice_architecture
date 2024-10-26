@@ -1,0 +1,13 @@
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\bin\Debug\net8.0\ShippingService.Domain.deps.json
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\bin\Debug\net8.0\ShippingService.Domain.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\bin\Debug\net8.0\ShippingService.Domain.pdb
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.csproj.AssemblyReference.cache
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.AssemblyInfoInputs.cache
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.AssemblyInfo.cs
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.csproj.CoreCompileInputs.cache
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.sourcelink.json
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\refint\ShippingService.Domain.dll
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ShippingService.Domain.pdb
+D:\Desktop\development projects\CleanArchiWithVertArchi\ShippingService.Domain\obj\Debug\net8.0\ref\ShippingService.Domain.dll
